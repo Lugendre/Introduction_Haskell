@@ -1,0 +1,4 @@
+# Check technical word spells
+test:
+    override:
+        - node_module/.bin/gulp textlint
