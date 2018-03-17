@@ -1,0 +1,29 @@
+{
+  "name": "introduction_haskell",
+  "version": "1.0.0",
+  "description": "This is Introduction Haskell for Programming Beginner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lugendre/Introduction_Haskell.git"
+  },
+  "keywords": [
+    "Haskell"
+  ],
+  "author": "Lugendre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lugendre/Introduction_Haskell/issues"
+  },
+  "homepage": "https://github.com/Lugendre/Introduction_Haskell#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2",
+    "gulp": "^3.9.1",
+    "gulp-textlint": "^5.0.7",
+    "textlint": "^10.1.4",
+    "textlint-rule-spellcheck-tech-word": "^5.0.0"
+  }
+}
