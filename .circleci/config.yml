@@ -1,4 +1,5 @@
 # Check technical word spells
+## [TODO]: refactor this configure.
 test:
     override:
         - node_module/.bin/gulp textlint
